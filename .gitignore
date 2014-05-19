@@ -38,4 +38,7 @@ nosetests.xml
 .komodotools/
 *.komodoproject
 
+# PyCharm
+.idea
+
 .DS_Store
