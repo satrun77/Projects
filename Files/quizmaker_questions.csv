@@ -1,0 +1,21 @@
+id, text, mark, answer
+1, 20 % of 2 is equal to?, 10, 0
+2, 3 * 13 is equal to?, 10, 39
+3, 1 + 1 - 10 * 0 is equal to?, 10, 2
+4, 4 % 2 + 1 is equal to?, 10, 1
+5, Which was the last planet in the Solar System to be discovered?, 5, Pluto
+6, Which planets has the shortest day?, 5, Jupiter
+7, Which moon is closest to its parent planet?, 5, Phobos
+8, Are there planets going around other stars? [Yes or No], 5, Yes
+9, Does the Earth have seasons at the North and South poles?, 5, Yes
+10, Does the Moon have a day and night?, 5, Yes
+11, What is the shape of the Moon's orbit?, 5, ellipse
+12, Do all of the stars have names?, 5, No
+13, Do the stars have colour?, 5, Yes
+14, Is it possible to see the dust in distant galaxies?, 5, Yes
+15, Which is the largest of the planets?, 5, Jupiter
+16, How long does it take Jupiter to go once around the Sun? (in our years, 5, 12
+17, Which of the planets is nearest the Sun?, 5, Mercury
+18, Does Venus have an atmosphere?, 5, Yes
+19, What is the Sun? (One word), 5, star
+20, Does the Sun rotate upon its axis?, 5, Yes
