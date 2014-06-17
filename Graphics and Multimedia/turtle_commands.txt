@@ -1,0 +1,30 @@
+world: 400, 400, white
+turtle: pink, 0
+move_to: 0, 0
+rectangle: 380, red
+rectangle: 360, blue
+rectangle: 340, red
+rectangle: 320, blue
+rectangle: 300, red
+rectangle: 280, blue
+rectangle: 260, blue
+rectangle: 240, red
+rectangle: 220, blue
+rectangle: 200, red
+rectangle: 180, yellow
+rectangle: 160, red
+rectangle: 140, yellow
+rectangle: 120, red
+rectangle: 100, yellow
+rectangle: 80, red
+rectangle: 60, yellow
+rectangle: 40, red
+rectangle: 20, yellow
+pen_up:
+set_position: 0, 0
+pen_down:
+right: 400, 400, 2, green
+pen_up:
+left: 400
+pen_down:
+right: 400, -400, 2
